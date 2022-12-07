@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: black;
 }
 h1{
    color:blue;
@@ -29,4 +29,9 @@ p{
 table{
 color: white;
 
+}
+ul{
+  p{
+  color: white;
+}
 }
